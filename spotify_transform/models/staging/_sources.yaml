@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: spotify_api
+    schema: "dev"
+    tables:
+      - name: raw_track
+      - name: raw_artist
+
+  - name: spotify_personal
+    schema: "dev"
+    tables:
+      - name: raw_streaming_history

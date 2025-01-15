@@ -1,0 +1,7 @@
+_venv/
+/spotify_streaming_history/*.json
+.env
+*.ipynb
+__pycache__/
+spotify.duckdb
+logs/

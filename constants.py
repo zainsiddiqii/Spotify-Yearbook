@@ -1,0 +1,5 @@
+STREAMING_HISTORY_FILE_PATH = "spotify_streaming_history/Streaming_History_Audio_*.json"
+TRACK_IDS_FILE_PATH = "data/tracks/track_ids.csv"
+RAW_LAYER_FOLDER_PATH = "data/raw"
+STAGING_LAYER_FOLDER_PATH = "data/staging"
+MART_LAYER_FOLDER_PATH = "data/mart"
